@@ -1,0 +1,161 @@
+{
+  "classes":
+  [
+    {
+      "className": "Paladyn",
+      "firstAbility":
+	  [
+		  {
+			"abilityName": "Święty cios"
+		  },
+		  {
+			"abilityName": "Grzmotnięcie"
+		  },
+		  {
+			"abilityName": "Blask"
+		  }
+	  ],
+	  "secondAbility":
+	  [
+		  {
+			"abilityName": "Leczenie ran"
+		  },
+		  {
+			"abilityName": "Błogosławieństwo"
+		  },
+		  {
+			"abilityName": "Rozbłysk"
+		  }
+	  ],
+	  "ultimate":
+	  [
+		  {
+			"abilityName": "Wezwanie"
+		  },
+		  {
+			"abilityName": "Za sprawę"
+		  },
+		  {
+			"abilityName": "Święty gniew"
+		  }
+	  ]
+    },
+	{
+      "className": "Łotr",
+      "firstAbility":
+	  [
+		  {
+			"abilityName": "Podwójny cios"
+		  },
+		  {
+			"abilityName": "Krwawienie"
+		  },
+		  {
+			"abilityName": "Rzut sztyletem"
+		  }
+	  ],
+	  "secondAbility":
+	  [
+		  {
+			"abilityName": "Zniknięcie"
+		  },
+		  {
+			"abilityName": "Grad ostrzy"
+		  },
+		  {
+			"abilityName": "Skok"
+		  }
+	  ],
+	  "ultimate":
+	  [
+		  {
+			"abilityName": "Wirtuoz"
+		  },
+		  {
+			"abilityName": "Zasłona dymna"
+		  },
+		  {
+			"abilityName": "Zwinność"
+		  }
+	  ]
+    },
+	{
+      "className": "Szaman",
+      "firstAbility":
+	  [
+		  {
+			"abilityName": "Totem ataku"
+		  },
+		  {
+			"abilityName": "Totem życia"
+		  },
+		  {
+			"abilityName": "Linia życia"
+		  }
+	  ],
+	  "secondAbility":
+	  [
+		  {
+			"abilityName": "Totem klątwy"
+		  },
+		  {
+			"abilityName": "Totem błogosławieństwa"
+		  },
+		  {
+			"abilityName": "Linia śmierci"
+		  }
+	  ],
+	  "ultimate":
+	  [
+		  {
+			"abilityName": "Przyzwanie totemów"
+		  },
+		  {
+			"abilityName": "Żądza krwi"
+		  },
+		  {
+			"abilityName": "Na matkę ziemię"
+		  }
+	  ]
+    },
+	{
+      "className": "Wojownik",
+      "firstAbility":
+	  [
+		  {
+			"abilityName": "Szarża"
+		  },
+		  {
+			"abilityName": "Heroiczny skok"
+		  },
+		  {
+			"abilityName": "Morale"
+		  }
+	  ],
+	  "secondAbility":
+	  [
+		  {
+			"abilityName": "Ryk"
+		  },
+		  {
+			"abilityName": "Młynek"
+		  },
+		  {
+			"abilityName": "Ile starczy sił"
+		  }
+	  ],
+	  "ultimate":
+	  [
+		  {
+			"abilityName": "Rzeź"
+		  },
+		  {
+			"abilityName": "Pancernik"
+		  },
+		  {
+			"abilityName": "Szał"
+		  }
+	  ]
+    }
+  ]
+}
